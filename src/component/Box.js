@@ -33,4 +33,8 @@ const Box = (props) => {
   );
 };
 
+// 각 박스를 담당하는 컴포넌트로, You와 Computer에 대한 정보를 표시.
+// result 값에 따라 컴퓨터의 결과를 반대로 처리하여 결과를 시각적으로 표시.
+// item이 없으면 이미지와 이름을 표시하지 않음.
+
 export default Box;

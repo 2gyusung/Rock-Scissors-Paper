@@ -74,4 +74,10 @@ function App() {
   );
 }
 
+// choice: 게임에서 사용할 선택(가위, 바위, 보)과 각 선택에 해당하는 이미지, 이름을 객체로 정의.
+// play: 사용자가 선택을 클릭했을 때, userSelect 상태를 갱신하고, randomChoice를 통해 컴퓨터의 선택을 결정한 후, judgement로 승패를 판별하여 result 상태를 설정.
+// randomChoice: choice 객체에서 랜덤으로 하나의 선택을 반환.
+// judgement: 사용자의 선택과 컴퓨터의 선택을 비교하여 승패(혹은 무승부)를 판별.
+
+
 export default App;
