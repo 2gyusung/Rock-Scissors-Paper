@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/2gyusung/Rock-Scissors-Paper/static/css/main.e1931a0e.css",
-    "main.js": "/2gyusung/Rock-Scissors-Paper/static/js/main.0b1fc3cd.js",
-    "index.html": "/2gyusung/Rock-Scissors-Paper/index.html",
-    "main.e1931a0e.css.map": "/2gyusung/Rock-Scissors-Paper/static/css/main.e1931a0e.css.map",
-    "main.0b1fc3cd.js.map": "/2gyusung/Rock-Scissors-Paper/static/js/main.0b1fc3cd.js.map"
+    "main.css": "/Rock-Scissors-Paper/static/css/main.e1931a0e.css",
+    "main.js": "/Rock-Scissors-Paper/static/js/main.83cd3670.js",
+    "index.html": "/Rock-Scissors-Paper/index.html",
+    "main.e1931a0e.css.map": "/Rock-Scissors-Paper/static/css/main.e1931a0e.css.map",
+    "main.83cd3670.js.map": "/Rock-Scissors-Paper/static/js/main.83cd3670.js.map"
   },
   "entrypoints": [
     "static/css/main.e1931a0e.css",
-    "static/js/main.0b1fc3cd.js"
+    "static/js/main.83cd3670.js"
   ]
 }
