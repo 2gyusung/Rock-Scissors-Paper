@@ -6,7 +6,7 @@ import Box from "./components/Box";
 const choice = {
   rock: {
     name: "Rock",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScinJrLLBafPATIykoA-Zcbx-4qC8bAO8RDA&s",
+    img: "https://buzzdestars.b-cdn.net/wp-content/uploads/2023/07/dwayne-johnson-the-rock.jpg",
   },
   scissors: {
     name: "Scissors",
