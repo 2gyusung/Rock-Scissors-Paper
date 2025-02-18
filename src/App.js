@@ -5,15 +5,15 @@ import Box from "./components/Box";
 // 1. 선택 가능한 항목을 정의 (가위, 바위, 보)
 const choice = {
   rock: {
-    name: "Rock",
+    name: "바위",
     img: "https://buzzdestars.b-cdn.net/wp-content/uploads/2023/07/dwayne-johnson-the-rock.jpg",
   },
   scissors: {
-    name: "Scissors",
+    name: "가위",
     img: "https://www.ikea.com/kr/en/images/products/sy-scissors__0112301_pe263788_s5.jpg?f=s",
   },
   paper: {
-    name: "Paper",
+    name: "보",
     img: "https://www.collinsdictionary.com/images/full/paper_111691001.jpg",
   },
 };
@@ -49,12 +49,12 @@ function App() {
     // 비긴 경우
     if (user.name === computer.name) {
       return "tie";
-    } else if (user.name === "Rock") {
-      return computer.name === "Scissors" ? "win" : "lose";
-    } else if (user.name === "Scissors") {
-      return computer.name === "Paper" ? "win" : "lose";
-    } else if (user.name === "Paper") {
-      return computer.name === "Rock" ? "win" : "lose";
+    } else if (user.name === "바위") {
+      return computer.name === "가위" ? "win" : "lose";
+    } else if (user.name === "가위") {
+      return computer.name === "보" ? "win" : "lose";
+    } else if (user.name === "보") {
+      return computer.name === "바위" ? "win" : "lose";
     }
   };
 
