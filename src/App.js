@@ -6,15 +6,15 @@ import Box from "./components/Box";
 const choice = {
   rock: {
     name: "Rock",
-    img:process.env.PUBLIC_URL + `./img/rock.jpg`,
+    img:process.env.PUBLIC_URL + `./images/rock.jpg`,
   },
   scissors: {
     name: "Scissors",
-    img:process.env.PUBLIC_URL + `./img/Scissors.jpg`,
+    img:process.env.PUBLIC_URL + `./images/Scissors.jpg`,
   },
   paper: {
     name: "Paper",
-    img:process.env.PUBLIC_URL + `./img/Paper.jpg`,
+    img:process.env.PUBLIC_URL + `./images/Paper.jpg`,
   },
 };
 
