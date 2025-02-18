@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/2gyusung/Rock-Scissors-Paper/static/css/main.e1931a0e.css",
+    "main.js": "/2gyusung/Rock-Scissors-Paper/static/js/main.cf158090.js",
+    "static/js/453.19cb5bce.chunk.js": "/2gyusung/Rock-Scissors-Paper/static/js/453.19cb5bce.chunk.js",
+    "index.html": "/2gyusung/Rock-Scissors-Paper/index.html",
+    "main.e1931a0e.css.map": "/2gyusung/Rock-Scissors-Paper/static/css/main.e1931a0e.css.map",
+    "main.cf158090.js.map": "/2gyusung/Rock-Scissors-Paper/static/js/main.cf158090.js.map",
+    "453.19cb5bce.chunk.js.map": "/2gyusung/Rock-Scissors-Paper/static/js/453.19cb5bce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1931a0e.css",
+    "static/js/main.cf158090.js"
+  ]
+}
