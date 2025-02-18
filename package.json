@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://github.com/2gyusung/Rock-Scissors-Paper",
   "eslintConfig": {
     "extends": [
       "react-app",
